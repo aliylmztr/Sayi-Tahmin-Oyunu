@@ -1,5 +1,5 @@
 # Sayi-Tahmin-Oyunu
-Java Sayı Tahmin oyunu
+Java Sayı Tahmin Oyunu
 
 www.patika.dev
 
